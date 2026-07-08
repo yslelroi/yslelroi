@@ -15,7 +15,7 @@ I enjoy building practical Cyber Security projects that demonstrate real-world s
 ## Projects
 | Project | Description | Repository | 
 |---------|-------------|------------|
-| OSINT Investigation | Conducted an OSINT Investigation on a target organisation | Coming Soon |
+| OSINT Investigation | Conducted an OSINT Investigation on a target organisation | https://github.com/yslelroi/osint-project |
 | Log Analysis | Analysed IIS and Windows Event Logs to identify attacks | Coming Soon |
 | Malware Analysis | Completed a malware analysis project | Coming soon |
 
