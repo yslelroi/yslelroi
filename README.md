@@ -11,7 +11,7 @@ I enjoy building practical Cyber Security projects that demonstrate real-world s
 - Threat Hunting
 - Social Engineering
 - Governance risk and compliance
-- 
+ 
 ## Projects
 | Project | Description | Repository | 
 |---------|-------------|------------|
