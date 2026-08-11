@@ -24,7 +24,7 @@ I enjoy building practical Cyber Security projects that demonstrate real-world s
 - Windows
 - Linux
 
-- ### Networking
+### Networking
 - TCP/IP
 - DNS
 - HTTP
